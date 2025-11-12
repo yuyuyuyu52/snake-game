@@ -1,5 +1,13 @@
 # 贪吃蛇游戏 - Snake Game
 
+## 项目简介 | About
+
+**这是什么？** 这是一个使用Python和Pygame开发的经典贪吃蛇游戏。通过方向键控制贪吃蛇移动，吃食物得分，避免撞墙和撞到自己。
+
+**What is this?** This is a classic Snake Game developed with Python and Pygame. Control the snake with arrow keys, eat food to score points, and avoid hitting walls or yourself.
+
+---
+
 一个使用Python和Pygame开发的经典贪吃蛇游戏。
 
 ## 功能特性
@@ -70,3 +78,42 @@ python snake_game.py
 ## 许可证
 
 MIT License - 可自由使用和修改。
+
+---
+
+## English Summary
+
+### What is this project?
+
+This is a **Classic Snake Game** implemented in Python using the Pygame library. It's a fully functional, interactive game that demonstrates:
+
+- Object-oriented programming in Python
+- Game development with Pygame
+- Grid-based game logic
+- Collision detection algorithms
+
+### Quick Start
+
+```bash
+# Install dependencies
+pip install pygame
+
+# Run the game
+python snake_game.py
+```
+
+### Controls
+
+- **Arrow Keys**: Move the snake
+- **ESC**: Exit game
+- **Any Key**: Restart after game over
+
+### Features
+
+- 🐍 Classic snake gameplay
+- 🎮 Smooth controls
+- 📊 Real-time score display
+- 🔄 Restart capability
+- 🎨 Clean interface
+
+Perfect for learning Python game development!
